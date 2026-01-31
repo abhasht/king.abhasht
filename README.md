@@ -1,2 +1,2 @@
-# king.abhasht
-king.abhasht 
+#ABMHACK
+ABMHACK
